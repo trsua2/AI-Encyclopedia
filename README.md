@@ -1,4 +1,4 @@
-# AI BIBLE 2026: The Definitive Collection of AI Tools
+# AI Encyclopedia 2026: The Definitive Collection of AI Tools
 
 > The most complete bible in the world collecting the largest quantity of AI tools from all possible and relevant themes.
 
@@ -990,3 +990,4 @@ This is a comprehensive and organized collection of directories, tools, learning
 ---
 
 *This AI BIBLE 2026 is continuously updated. Contributions are welcome!*
+
